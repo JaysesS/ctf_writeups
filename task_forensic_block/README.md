@@ -12,4 +12,4 @@ Get co_block.sql
 
 3.  Send flag<br/>
 
-    'auctf{1581060905}'
+    auctf{1581060905}
