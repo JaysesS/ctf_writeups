@@ -8,11 +8,7 @@ Get co_block.sql
     mysql -u jayse -p test < co_block.sql<br/>
     mysql> use test<br/>
     mysql> select time from co_block where rolled_back=1<br/>
-    +------------+<br/>
-    | time       |<br/>
-    +------------+<br/>
-    | 1581060905 |<br/>
-    +------------+<br/>
+    1581060905<br/>
 
 3.  Send flag<br/>
 
