@@ -1,1 +1,0 @@
-getattr(os, "system")("cat flag" + "\x2e" +"txt")

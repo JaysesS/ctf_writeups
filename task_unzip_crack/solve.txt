@@ -1,2 +1,0 @@
-sudo apt-get install fcrackzip
-fcrackzip -u -D -p rockyou.txt 4820b1_flag.zip
